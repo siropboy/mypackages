@@ -10,11 +10,11 @@
 
 在feeds.conf.default加入：
 
-src-git mypackages https://github.com/siropboy/mypackages
+src-git mypackages https://github.com/yjiawqgj/mypackages
 
 食用方法二、
 
-git clone https://github.com/siropboy/mypackages package/mypackages
+git clone https://github.com/yjiawqgj/mypackages.git package/mypackages
 
 
 
